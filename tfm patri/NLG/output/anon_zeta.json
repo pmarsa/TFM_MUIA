@@ -1,0 +1,32 @@
+{
+  "ID_FACTURA": "anon_zeta",
+  "NOMBRE_EMPRESA": null,
+  "NUMERO_FACTURA": "11080183",
+  "FECHA": "08/04/2025",
+  "PRODUCTOS": [
+    {
+      "ID": 0,
+      "SKU": "35080036",
+      "EAN": "3760259931094",
+      "NOMBRE_PRODUCTO": "SUPER MARIO - COJÍN 13 CM COIN BOX",
+      "CANTIDAD": 3,
+      "PRECIO_COSTE_UNIDAD": null
+    },
+    {
+      "ID": 1,
+      "SKU": "22020639",
+      "EAN": "0889698725699",
+      "NOMBRE_PRODUCTO": "BTS (S4) - POP KEYCHAIN J-HOPE",
+      "CANTIDAD": 3,
+      "PRECIO_COSTE_UNIDAD": null
+    },
+    {
+      "ID": 2,
+      "SKU": "22020641",
+      "EAN": "0889698725705",
+      "NOMBRE_PRODUCTO": "BTS (S4) - POP KEYCHAIN JIMIN",
+      "CANTIDAD": 3,
+      "PRECIO_COSTE_UNIDAD": null
+    }
+  ]
+}

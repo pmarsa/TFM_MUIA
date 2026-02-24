@@ -1,0 +1,24 @@
+{
+  "ID_FACTURA": "anon_delta",
+  "NOMBRE_EMPRESA": null,
+  "NUMERO_FACTURA": "2025-0119",
+  "FECHA": "06/08/2025",
+  "PRODUCTOS": [
+    {
+      "ID": 0,
+      "SKU": null,
+      "EAN": "045496429591",
+      "NOMBRE_PRODUCTO": "NINTENDO SWITCH SPORTS 2",
+      "CANTIDAD": 2,
+      "PRECIO_COSTE_UNIDAD": null
+    },
+    {
+      "ID": 1,
+      "SKU": null,
+      "EAN": "045496321475",
+      "NOMBRE_PRODUCTO": "NINTENDO SWITCH 2 PRO CONTROLLER",
+      "CANTIDAD": 2,
+      "PRECIO_COSTE_UNIDAD": null
+    }
+  ]
+}

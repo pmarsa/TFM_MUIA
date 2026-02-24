@@ -1,0 +1,14 @@
+HOJA 1
+***********************
+********************************
+Fecha de Factura: 08/04/2025 ******************************
+*************
+Número de Factura: 11080183
+CIF/DNI *********
+N.PROV.:
+CÓDIGO Cod. Barras DESCRIPCION CANTIDA PRECIO Dtos. Predio Un. IMPORTE
+N/ ALB. 41086860 de Fecha 07/04/2025
+Su Pedido : Pedido WEB N.148
+35080036 3760259931094 SUPER MARIO - COJÍN 13 CM COIN BOX 3,0 **,**€ **,** **,**€ **,**€
+22020639 0889698725699 BTS (S4) - POP KEYCHAIN J-HOPE 3,0 **,**€ **,** **,**€ **,**€
+22020641 0889698725705 BTS (S4) - POP KEYCHAIN JIMIN 3,0 **,**€ **,** **,**€ **,**€

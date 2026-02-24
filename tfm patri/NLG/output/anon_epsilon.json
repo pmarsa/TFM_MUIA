@@ -1,0 +1,24 @@
+{
+  "ID_FACTURA": "anon_epsilon",
+  "NOMBRE_EMPRESA": null,
+  "NUMERO_FACTURA": "170954",
+  "FECHA": "18/08/2025",
+  "PRODUCTOS": [
+    {
+      "ID": 0,
+      "SKU": "NOV 00004523",
+      "EAN": "9788467973167",
+      "NOMBRE_PRODUCTO": "LA BENDICION DEL OFICIAL DEL CIELO",
+      "CANTIDAD": 2,
+      "PRECIO_COSTE_UNIDAD": null
+    },
+    {
+      "ID": 1,
+      "SKU": "NOV 00004561",
+      "EAN": "9788467978377",
+      "NOMBRE_PRODUCTO": "LAS TRES ESTRELLAS DE LA CALAMIDAD",
+      "CANTIDAD": 2,
+      "PRECIO_COSTE_UNIDAD": null
+    }
+  ]
+}

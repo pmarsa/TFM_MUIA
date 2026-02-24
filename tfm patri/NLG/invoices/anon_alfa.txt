@@ -1,0 +1,27 @@
+FACTURA
+FECHA FACTURA N° CODIGO CLIENTE REPRESENTANTE
+*FD696678*
+10/09/2025 FD696678 ***** *** ******
+DIRECCION DE FACTURACION DIRECCION DE ENTREGA Según la Ley del 12 de mayo de 1980, en caso de impago por parte del comprador,
+******* ****** ** ****** ********* el vendedor, sin perder ninguno de sus derechos podrá automáticamente y sin
+otros procedimientos exigir la restitución de los artículos con cargo al comprador.
+C/ **** **** **** ** ***** ** ****** *
+Todo retraso de pago dará derecho a la aplicación de un interés por demora
+LOCAL 2 equivalente a tres veces el interés legal en vigor. Además, conforme la legislación
+***** *** ******** ** ******* ***** ********* ******* ******, se aplicará una indemnización por gestión de recobro
+******* ******* fija de 40 €más IVA.
+No hay descuento por pronto pago o pago anticipado.
+N° intracommunautaire : *********** Transporteur : Contacto comercial: *********** Contacto contabilidad: ***************
+Zone Referencia Cantidad Gama Descripción Dont WEEE Codigo de Barra P.U. Descuento P.U. neto Importe Sin IVA*
+ALFPCK281 15,00 HARRY POTTER - Pck Mug320ml + Acryl® + Postcards "Hogwarts" * 3665361131885 **,** € **,**% **,** € **,**
+ALFPCK286 40,00 POKEMON - Pck A5 Notebook + Mug320ml + Postcards "Pikachu" * 3665361131939 **,** € **,**% **,** € **,**
+REMARQUE :SETS
+Code Base Taux Montant CONDICIONES Suma Modo De Pago Vencimiento Total Sin IVA Descuento Total con IVA Acompte NETO A PAGAR
+**,** **,** **,** DE
+**,** par PRLV SDD le 10/10/25 **,** **,** **,** **,** **,**
+PAGO
+PAGE
+Total **,** **,**
+FD696678
+******** ****** **** - ******************** ***** ************** ****** - TEL. **************** - FAX. **************** - ********************
+**** ** ******** ** ********* €- N° Siret : ************** - N.A.F. : ***** - N° intracommunautaire : *************** - RCS ***** ***************

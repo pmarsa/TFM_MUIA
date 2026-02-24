@@ -1,0 +1,32 @@
+{
+  "ID_FACTURA": "anon_gamma",
+  "NOMBRE_EMPRESA": null,
+  "NUMERO_FACTURA": "1277087",
+  "FECHA": "14/01/2026",
+  "PRODUCTOS": [
+    {
+      "ID": 0,
+      "SKU": "CR2383",
+      "EAN": null,
+      "NOMBRE_PRODUCTO": "Stranger Things Bolso Logo",
+      "CANTIDAD": 5,
+      "PRECIO_COSTE_UNIDAD": null
+    },
+    {
+      "ID": 1,
+      "SKU": "FK65748",
+      "EAN": null,
+      "NOMBRE_PRODUCTO": "Hello Kitty and Friends Figura POP! Sanrio Vinyl Cinnamoroll 9 cm",
+      "CANTIDAD": 5,
+      "PRECIO_COSTE_UNIDAD": null
+    },
+    {
+      "ID": 2,
+      "SKU": "FK72234",
+      "EAN": null,
+      "NOMBRE_PRODUCTO": "EFL POP! Football Vinyl Figura Barcelona - Raphinha 9 cm",
+      "CANTIDAD": 3,
+      "PRECIO_COSTE_UNIDAD": null
+    }
+  ]
+}

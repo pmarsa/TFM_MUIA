@@ -1,0 +1,24 @@
+{
+  "ID_FACTURA": "anon_alfa",
+  "NOMBRE_EMPRESA": null,
+  "NUMERO_FACTURA": "FD696678",
+  "FECHA": "10/09/2025",
+  "PRODUCTOS": [
+    {
+      "ID": 0,
+      "SKU": "ALFPCK281",
+      "EAN": "3665361131885",
+      "NOMBRE_PRODUCTO": "HARRY POTTER - Pck Mug320ml + Acryl® + Postcards \"Hogwarts\" *",
+      "CANTIDAD": 15,
+      "PRECIO_COSTE_UNIDAD": null
+    },
+    {
+      "ID": 1,
+      "SKU": "ALFPCK286",
+      "EAN": "3665361131939",
+      "NOMBRE_PRODUCTO": "POKEMON - Pck A5 Notebook + Mug320ml + Postcards \"Pikachu\" *",
+      "CANTIDAD": 40,
+      "PRECIO_COSTE_UNIDAD": null
+    }
+  ]
+}

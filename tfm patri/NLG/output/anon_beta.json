@@ -1,0 +1,32 @@
+{
+  "ID_FACTURA": "anon_beta",
+  "NOMBRE_EMPRESA": null,
+  "NUMERO_FACTURA": "2025004980",
+  "FECHA": "22/09/2025",
+  "PRODUCTOS": [
+    {
+      "ID": 0,
+      "SKU": "214132",
+      "EAN": "0889698707473",
+      "NOMBRE_PRODUCTO": "STAR WARS 6 \"40TH ANNIVERSARY\" - POP N° 607 - Leia (BH) MIX FIG",
+      "CANTIDAD": 6,
+      "PRECIO_COSTE_UNIDAD": null
+    },
+    {
+      "ID": 1,
+      "SKU": "224403",
+      "EAN": "0889698760898",
+      "NOMBRE_PRODUCTO": "HELLO KITTY 50TH Anniv. - POP Sanrio N° 75 - Hello Kitty in Cake MIX FIG",
+      "CANTIDAD": 6,
+      "PRECIO_COSTE_UNIDAD": null
+    },
+    {
+      "ID": 2,
+      "SKU": "225057",
+      "EAN": "0889698793216",
+      "NOMBRE_PRODUCTO": "ONE PIECE - POP Animation N° 1607 - Luffy Gear 5 with Chase MIX FIG",
+      "CANTIDAD": 12,
+      "PRECIO_COSTE_UNIDAD": null
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+Emisor
+***********************
+********************************
+*********************
+******************************
+*************
+Cliente
+************
+Albaran Cargo Firme ******************************
+*********************
+Albarán Fecha Fecha cargo s/Ref. ********
+Telf.: Fax.:
+170954 18/08/2025 18/08/2025 179233 *********
+ISBN Código Título I Ej. PVP Precio s/i % Dto. IVA Neto
+9788467973167 NOV 00004523 LA BENDICION DEL OFICIAL DEL CIELO 06 2 **,** **,** **,** % **,** **,**
+9788467978377 NOV 00004561 LAS TRES ESTRELLAS DE LA CALAMIDAD 01 2 **,** **,** **,** % **,** **,**
+I.V.A BASE IMP IMP I.V.A REC BASE IMP IMP REC Gastos envio **,**
+TOTAL BASE **,**
+**,** **,** **,** % **,** **,** TOTAL I.V.A. **,**
+TOTAL RECARGO
+TOTAL **,**
+Observaciones: I = Incidencias
